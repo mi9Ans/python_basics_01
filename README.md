@@ -3,3 +3,6 @@ A simple while loop project that takes a number range and counts how many number
 
 ### number_guess_game.py
 A fun beginner project where the user tries to guess a secret number using a `while` loop. The program gives feedback ("Too Big" / "Too Small") after each guess and counts how many attempts it took to get it right..
+
+### length_converter.py
+A simple program that converts height from centimeters into feet and inches using float division, modulo, and rounding. It demonstrates type conversion and real-world unit conversion.
