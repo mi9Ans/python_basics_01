@@ -12,3 +12,6 @@ A creative and interactive program that asks the user how they're feeling and re
 
 ### password_checker.py
 A simple password loop that keeps prompting the user until the correct password ("open123") is entered. Demonstrates sentinel-controlled loops and string comparison.
+
+### prime_number_checker.py
+Takes a number as input and checks whether it's a prime number. Uses a for loop to test divisibility from 2 to n-1. Demonstrates conditionals, user input, and basic logic.
