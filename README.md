@@ -9,3 +9,6 @@ A simple program that converts height from centimeters into feet and inches usin
 
 ### emoji_mood_generator.py
 A creative and interactive program that asks the user how they're feeling and responds with emojis and short messages based on their mood. It uses conditional logic, string input, and emoji support.
+
+### password_checker.py
+A simple password loop that keeps prompting the user until the correct password ("open123") is entered. Demonstrates sentinel-controlled loops and string comparison.
