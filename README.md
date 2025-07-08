@@ -25,3 +25,23 @@ A terminal-based contact manager using Python dictionaries.
 - View all saved contacts
 - Search contacts by name
 - Uses `.get()`, `.items()`, and dictionary updates
+
+## Project #23 - Student Grades Analyzer 📊
+
+This project takes a dictionary of students and their marks, then performs key analysis tasks:
+
+### ✅ Features:
+- Calculates average marks
+- Finds the topper (highest scorer)
+- Identifies the lowest scorer
+- Demonstrates use of `.items()`, loops, and conditionals
+- Helps reinforce Python dictionary fundamentals
+
+### 🧠 Concepts Used:
+- Dictionary iteration
+- If-else logic
+- Variables for tracking top/bottom
+- Arithmetic operations
+
+This project sets a strong foundation for moving into Data Analysis.
+
