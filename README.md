@@ -15,3 +15,13 @@ A simple password loop that keeps prompting the user until the correct password 
 
 ### prime_number_checker.py
 Takes a number as input and checks whether it's a prime number. Uses a for loop to test divisibility from 2 to n-1. Demonstrates conditionals, user input, and basic logic.
+
+## Project #22 - Mini Contact Book 📖
+
+A terminal-based contact manager using Python dictionaries.
+
+**Features:**
+- Add or update contacts
+- View all saved contacts
+- Search contacts by name
+- Uses `.get()`, `.items()`, and dictionary updates
