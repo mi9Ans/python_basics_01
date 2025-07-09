@@ -45,3 +45,68 @@ This project takes a dictionary of students and their marks, then performs key a
 
 This project sets a strong foundation for moving into Data Analysis.
 
+## 📊 Project #24: Student Performance Summary Tool
+
+This Python project reads student marks from a CSV file and performs a complete analysis — including totals, averages, toppers, lowest scorers, and subject-wise performance.
+
+---
+
+### ✅ Features
+
+- 📥 Reads input from `students.csv`
+- ➕ Calculates **total** and **average** marks for each student
+- 🏆 Identifies the **topper** and **lowest scorer**
+- 📚 Calculates **subject-wise averages** (Math, Science, English)
+- 💾 Saves a new summary file (`student_summary.csv`)
+
+---
+
+### 📁 Files in This Project
+
+| File Name                   | Description                          |
+|----------------------------|--------------------------------------|
+| `student_analysis.py`| Python script for analysis logic     |
+| `students.csv`             | Input data file with student scores  |
+
+---
+
+### 🧠 Sample Input (`students.csv`)
+
+```csv
+Name,Math,Science,English
+Amit,78,85,88
+Neha,92,89,95
+Ravi,65,70,72
+Simran,88,90,84
+Arjun,74,80,79
+
+
+📊 Student Totals and Averages:
+     Name  Total  Average
+0   Amit    251    83.67
+1   Neha    276    92.00
+2   Ravi    207    69.00
+3 Simran    262    87.33
+4  Arjun    233    77.67
+
+🏆 Topper:
+    Name  Total  Average
+1  Neha    276    92.0
+
+📉 Lowest Scorer:
+   Name  Total  Average
+2  Ravi    207    69.0
+
+📚 Subject-wise Averages:
+Math: 79.4
+Science: 82.8
+English: 83.6
+
+How to run
+1)pip install pandas
+2)python StudentSidebarAnalysis.py
+
+Anshumaan Mishra
+> Beginner Python Projects | July 2025
+> Project #24 of 60
+
